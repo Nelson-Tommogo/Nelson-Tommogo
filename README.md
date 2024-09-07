@@ -13,22 +13,6 @@ I'm a passionate senior software developer working on **Mobile** and **Cyber Sec
 - Expand my knowledge in DevOps and cloud-based technologies
 - Collaborate with other developers on open-source projects
 
-## 🔧 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nelson-tommogo&layout=compact&theme=dark)
-
-## 📈 GitHub Stats
-![Nelson's GitHub stats](https://github-readme-stats.vercel.app/api?username=nelson-tommogo&show_icons=true&theme=dark&count_private=true)
-
-## 📫 Connect with Me:
-- **Email**: nelsontommogo9@gmail.com
-- **LinkedIn**: [Nelson Tommogo](https://www.linkedin.com/in/nelson-tommogo/)
-- **Portfolio**: [Nelson Tommogo]( https://nelsontommogo.vercel.app/)
-- **Twitter**: [Nelson Tommogo]( https://nelsontommogo.vercel.app/)
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nelson_tommogo/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelson-tommogo/)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nelson_tommogo)
 
 ## 💻 Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -55,6 +39,13 @@ I'm a passionate senior software developer working on **Mobile** and **Cyber Sec
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
+
+## 🔧 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nelson-tommogo&layout=compact&theme=dark)
+
+## 📈 GitHub Stats
+![Nelson's GitHub stats](https://github-readme-stats.vercel.app/api?username=nelson-tommogo&show_icons=true&theme=dark&count_private=true)
+
 ## 📈 GitHub Stats & Contributions
 
 ![Nelson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nelson-tommogo&show_icons=true&theme=radical)
@@ -66,6 +57,11 @@ I'm a passionate senior software developer working on **Mobile** and **Cyber Sec
 ### 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nelson-tommogo&theme=onedark)](https://github.com/nelson-tommogo/github-profile-trophy)
+
+
+
+## 📈 Commit History
+![Nelson's GitHub commit history](https://github-readme-streak-stats.herokuapp.com/?user=nelson-tommogo&theme=dark&hide_border=false)
 
 
 ## 🌱 What I'm Learning
@@ -82,9 +78,17 @@ I'm a passionate senior software developer working on **Mobile** and **Cyber Sec
 - [████████░░░░░░░░░░] 50% Cyber Security
 - [██████░░░░░░░░░░░░] 40% AI/ML
 
+## 📫 Connect with Me:
+- **Email**: nelsontommogo9@gmail.com
+- **LinkedIn**: [Nelson Tommogo](https://www.linkedin.com/in/nelson-tommogo/)
+- **Portfolio**: [Nelson Tommogo]( https://nelsontommogo.vercel.app/)
+- **Twitter**: [Nelson Tommogo]( https://nelsontommogo.vercel.app/)
 
-## 📈 Commit History
-![Nelson's GitHub commit history](https://github-readme-streak-stats.herokuapp.com/?user=nelson-tommogo&theme=dark&hide_border=false)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nelson_tommogo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelson-tommogo/)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nelson_tommogo)
+
 
 ## 📫 Let's Collaborate
 Feel free to reach out if you'd like to collaborate on projects, or have a discussion about technology!

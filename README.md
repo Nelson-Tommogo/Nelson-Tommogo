@@ -1,6 +1,6 @@
 # Hello, I'm Nelson Tommogo 👋
 
-I'm a passionate senior software developer working on **Mobile** and **Cyber Security** projects. I'm always learning new things, especially in the fields of **Machine Learning** and **AI**. I'm excited to collaborate on innovative projects that create real-world impact!
+I'm a passionate senior software developer working on **Mobile** and **Machine Learning  and AI** projects. I'm always learning new things, especially in the fields of **Machine Learning** and **AI**. I'm excited to collaborate on innovative projects that create real-world impact!
 
 ## 🛠️ Technologies & Tools
 - **Web Development**: HTML, CSS, JavaScript, React

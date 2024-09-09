@@ -72,9 +72,7 @@ I'm a passionate senior software developer working on **Mobile** and **Machine L
 
 ## 📫 Connect with Me:
 - **Email**: nelsontommogo9@gmail.com
-- **LinkedIn**: [Nelson Tommogo](https://www.linkedin.com/in/nelson-tommogo/)
 - **Portfolio**: [Nelson Tommogo]( https://nelsontommogo.vercel.app/)
-- **Twitter**: [Nelson Tommogo]( https://nelsontommogo.vercel.app/)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nelson_tommogo/)

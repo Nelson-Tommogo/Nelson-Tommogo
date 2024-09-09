@@ -8,12 +8,6 @@ I'm a passionate senior software developer working on **Mobile** and **Machine L
 - **Design**: Canva, Figma
 - **Backend**: Node.js, Firebase, Spring Boot
 
-## 🎯 Goals
-- Work on impactful projects that solve real-world problems
-- Expand my knowledge in DevOps and cloud-based technologies
-- Collaborate with other developers on open-source projects
-
-
 ## 💻 Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -66,17 +60,15 @@ I'm a passionate senior software developer working on **Mobile** and **Machine L
 
 ## 🌱 What I'm Learning
 
-- DevOps
-- Cyber Security
-- AI&ML
+- Machine Learning
+- AI
 
 ---
 
 ## 📖 Learning Progress
 
-- [██████████░░░░░░░░] 60% DevOps
-- [████████░░░░░░░░░░] 50% Cyber Security
-- [██████░░░░░░░░░░░░] 40% AI/ML
+- [██████████░░░░░░░░] 60% ML
+- [████████░░░░░░░░░░] 40% AI
 
 ## 📫 Connect with Me:
 - **Email**: nelsontommogo9@gmail.com
@@ -89,6 +81,3 @@ I'm a passionate senior software developer working on **Mobile** and **Machine L
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelson-tommogo/)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nelson_tommogo)
 
-
-## 📫 Let's Collaborate
-Feel free to reach out if you'd like to collaborate on projects, or have a discussion about technology!

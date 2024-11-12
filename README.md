@@ -34,8 +34,6 @@ I'm a passionate senior software developer working on **Mobile** and **Machine L
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 
-## 🔧 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nelson-tommogo&layout=compact&theme=dark&langs_count=4&hide=HTML,CSS)
 
 ## 📈 GitHub Stats
 ![Nelson's GitHub stats](https://github-readme-stats.vercel.app/api?username=nelson-tommogo&show_icons=true&theme=dark&count_private=true)

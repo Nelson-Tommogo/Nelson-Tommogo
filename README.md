@@ -35,12 +35,6 @@ I'm a passionate senior software developer working on **Mobile** and **Machine L
 
 
 
-## 📈 GitHub Stats
-![Nelson's GitHub stats](https://github-readme-stats.vercel.app/api?username=nelson-tommogo&show_icons=true&theme=dark&count_private=true)
-
-## 📈 GitHub Stats & Contributions
-
-![Nelson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nelson-tommogo&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nelson-tommogo&layout=compact&theme=radical)
 

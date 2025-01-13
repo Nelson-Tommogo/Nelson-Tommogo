@@ -47,6 +47,7 @@ I'm a passionate senior software developer working on **Mobile** and **Machine L
 
 - Machine Learning
 - AI
+- Backend Technologies
 
 ---
 

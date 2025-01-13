@@ -41,8 +41,6 @@ I'm a passionate senior software developer working on **Mobile** and **Machine L
 
 
 
-## 📈 Commit History
-![Nelson's GitHub commit history](https://github-readme-streak-stats.herokuapp.com/?user=nelson-tommogo&theme=dark&hide_border=false)
 
 
 ## 🌱 What I'm Learning

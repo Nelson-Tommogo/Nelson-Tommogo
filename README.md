@@ -30,7 +30,3 @@ I'm a passionate senior software developer working on **Mobile** and **Machine L
 
 - [██████████░░░░░░░░] 60% ML
 - [████████░░░░░░░░░░] 40% AI
-
-## 📫 Connect with Me:
-- **Email**: nelsontommogo9@gmail.com
-- **Portfolio**: [Nelson Tommogo]( https://nelsontommogo.vercel.app/)

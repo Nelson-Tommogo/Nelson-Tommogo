@@ -2,12 +2,6 @@
 
 I'm a passionate senior software developer working on **Mobile** and **Machine Learning  and AI** projects. I'm always learning new things, especially in the fields of **Machine Learning** and **AI**. I'm excited to collaborate on innovative projects that create real-world impact!
 
-## 🛠️ Technologies & Tools
-- **Web Development**: HTML, CSS, JavaScript, React
-- **Mobile Development**: Kotlin, Java, Flutter
-- **Design**: Canva, Figma
-- **Backend**: Node.js, Firebase, Spring Boot
-
 ## 💻 Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -40,9 +34,3 @@ I'm a passionate senior software developer working on **Mobile** and **Machine L
 ## 📫 Connect with Me:
 - **Email**: nelsontommogo9@gmail.com
 - **Portfolio**: [Nelson Tommogo]( https://nelsontommogo.vercel.app/)
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nelson_tommogo/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelson-tommogo/)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nelson_tommogo)
-

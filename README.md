@@ -54,6 +54,7 @@
   <img alt="Solidity" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white">
   <img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white">
   <img alt="Blockchain" src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain-dot-com&logoColor=white">
+  <img alt="Motoko" src="https://img.shields.io/badge/Motoko-3B00B9?style=for-the-badge&logo=internet-computer&logoColor=white">
 </p>
 
 # 📊 GitHub Stats:

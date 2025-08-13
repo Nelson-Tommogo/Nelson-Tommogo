@@ -14,4 +14,7 @@ Currently exploring Web3, Solidity, and Rust to create impactful real-world appl
 **Blockchain:** Solidity, Rust, Motoko  
 
 ## 📊 GitHub Stats  
-![Stats](https://github-readme-stats.vercel.app/api?username=Nelson-Tommogo&show_icons=true&theme=radical&hide_border=true)  
+![Profile Views](https://komarev.com/ghpvc/?username=Nelson-Tommogo&label=Profile%20views&color=blue)  
+![Repos Badge](https://img.shields.io/badge/Repositories-30+-blue)  
+![Commits Badge](https://img.shields.io/badge/Commits-1k+-brightgreen)  
+![Stars Badge](https://img.shields.io/badge/Stars-B%2B-yellow)  

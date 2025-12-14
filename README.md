@@ -44,13 +44,23 @@ I build scalable, modern applications across mobile, web, and blockchain. Curren
 - **Rust** - High-performance blockchain infrastructure
 - **Motoko** - Building on the Internet Computer Protocol
 
-## GitHub Stats
+## Most Used Languages
 
+<!-- Manually ordering languages to show TypeScript first, then JavaScript, then your other languages -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nelson-Tommogo&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Nelson's GitHub stats" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nelson-Tommogo&layout=compact&theme=radical&hide=html,css,scss,python&langs_count=8&card_width=400&hide_border=true&count_private=true&include_all_commits=true" alt="Top Languages" />
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nelson-Tommogo&layout=compact&theme=radical&hide=html,css,scss,python&langs_count=6&hide_border=true&card_width=500&custom_title=Most%20Used%20Languages&langs_order=typescript,javascript,solidity,rust,php,dart,kotlin,java,c%23&size_weight=0.5&count_weight=0.5)
+
 </div>
+
+**Language Breakdown:**
+1. **TypeScript** - Primary language for web development
+2. **JavaScript** - Legacy projects and scripting
+3. **Solidity** - Smart contract development
+4. **Rust** - Blockchain and systems programming
+5. **PHP** - Laravel backend development
+6. **Dart** - Flutter mobile development
+7. **Kotlin** - Multiplatform mobile development
 
 ## Current Focus
 

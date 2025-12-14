@@ -49,7 +49,7 @@ I build scalable, modern applications across mobile, web, and blockchain. Curren
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nelson-Tommogo&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Nelson's GitHub stats" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nelson-Tommogo&layout=compact&theme=radical&hide=html,css,scss&langs_count=8&card_width=400&hide_border=true&count_private=true&include_all_commits=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nelson-Tommogo&layout=compact&theme=radical&hide=html,css,scss,python&langs_count=8&card_width=400&hide_border=true&count_private=true&include_all_commits=true" alt="Top Languages" />
 </div>
 
 ## Current Focus

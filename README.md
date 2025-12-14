@@ -73,12 +73,6 @@ I build scalable, modern applications across mobile, web, and blockchain. Curren
   
 </div>
 
-## Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nelson-tommogo)
-[![X (Twitter)](https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x)](https://x.com/nelson_tommogo)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Nelson-Tommogo)
-
 ## Currently Learning
 - Advanced Web3 architectures
 - Smart contract security & auditing

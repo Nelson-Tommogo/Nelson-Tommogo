@@ -78,8 +78,6 @@ I build scalable, modern applications across mobile, web, and blockchain. Curren
 - Smart contract security & auditing
 - Zero-knowledge proofs
 - DeFi protocols
-- Kotlin Multiplatform for mobile development
-
 ---
 
 *Building the decentralized future, one block at a time.*

@@ -8,14 +8,15 @@ I build scalable, modern applications across mobile, web, and blockchain. Curren
 ### **Frontend & Mobile**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### **Databases**
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -32,11 +33,12 @@ I build scalable, modern applications across mobile, web, and blockchain. Curren
 
 ### 🏗️ **Modern Web Applications**
 - **React/Next.js** - Building performant, SEO-friendly web applications
-- **Vue.js** - Creating reactive and intuitive user interfaces
+- **TypeScript** - Type-safe development for scalable applications
 - **Laravel** - Robust backend solutions with elegant syntax
 
 ### 📱 **Cross-Platform Mobile**
 - **Flutter** - Beautiful native apps for iOS and Android from a single codebase
+- **Kotlin Multiplatform** - Sharing business logic across iOS and Android
 
 ### 🔗 **Blockchain & Decentralized Apps**
 - **Solidity** - Smart contract development for Ethereum and EVM chains
@@ -46,8 +48,21 @@ I build scalable, modern applications across mobile, web, and blockchain. Curren
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nelson-Tommogo&show_icons=true&theme=radical&count_private=true" alt="Nelson's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nelson-Tommogo&layout=compact&theme=radical" alt="Top Languages" />
+  <!-- This will show all your contributions including private repos and organizations -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nelson-Tommogo&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Nelson's GitHub stats" />
+  
+  <!-- This will show your most used languages based on all activity -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nelson-Tommogo&layout=compact&theme=radical&hide=html,css,scss&langs_count=8&card_width=400&hide_border=true&count_private=true&include_all_commits=true" alt="Top Languages" />
+</div>
+
+## 🔥 Current Focus
+<div align="center">
+  
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+  ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+  
 </div>
 
 ## 📫 Let's Connect
@@ -61,6 +76,7 @@ I build scalable, modern applications across mobile, web, and blockchain. Curren
 - Smart contract security & auditing
 - Zero-knowledge proofs
 - DeFi protocols
+- Kotlin Multiplatform for mobile development
 
 ---
 

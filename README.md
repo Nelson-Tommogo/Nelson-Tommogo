@@ -29,21 +29,10 @@ I build scalable, modern applications across mobile, web, and blockchain. Curren
 ![Motoko](https://img.shields.io/badge/Motoko-5C2D91?style=for-the-badge&logo=internet-computer&logoColor=white)
 
 
-
-## Most Used Languages
-
-<!-- Manually ordering languages to show TypeScript first, then JavaScript, then your other languages -->
-<div align="center">
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nelson-Tommogo&layout=compact&theme=radical&hide=html,css,scss,python&langs_count=6&hide_border=true&card_width=500&custom_title=Most%20Used%20Languages&langs_order=typescript,javascript,solidity,rust,php,dart,kotlin,java,c%23&size_weight=0.5&count_weight=0.5)
-
-</div>
-
-
 ## Current Focus
 
 <div align="center">
-  
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)

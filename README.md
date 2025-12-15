@@ -39,14 +39,6 @@ I build scalable, modern applications across mobile, web, and blockchain. Curren
 
 </div>
 
-**Language Breakdown:**
-1. **TypeScript** - Primary language for web development
-2. **JavaScript** - Legacy projects and scripting
-3. **Solidity** - Smart contract development
-4. **Rust** - Blockchain and systems programming
-5. **PHP** - Laravel backend development
-6. **Dart** - Flutter mobile development
-7. **Kotlin** - Multiplatform mobile development
 
 ## Current Focus
 

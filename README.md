@@ -28,21 +28,7 @@ I build scalable, modern applications across mobile, web, and blockchain. Curren
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Motoko](https://img.shields.io/badge/Motoko-5C2D91?style=for-the-badge&logo=internet-computer&logoColor=white)
 
-## Featured Projects
 
-### Modern Web Applications
-- **React/Next.js** - Building performant, SEO-friendly web applications
-- **TypeScript** - Type-safe development for scalable applications
-- **Laravel** - Robust backend solutions with elegant syntax
-
-### Cross-Platform Mobile
-- **Flutter** - Beautiful native apps for iOS and Android from a single codebase
-- **Kotlin Multiplatform** - Sharing business logic across iOS and Android
-
-### Blockchain & Decentralized Apps
-- **Solidity** - Smart contract development for Ethereum and EVM chains
-- **Rust** - High-performance blockchain infrastructure
-- **Motoko** - Building on the Internet Computer Protocol
 
 ## Most Used Languages
 

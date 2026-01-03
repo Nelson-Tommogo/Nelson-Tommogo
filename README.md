@@ -1,16 +1,15 @@
 # Common Genius  
 **Full-Stack Developer | Web3 & Blockchain Enthusiast**
 
-I build scalable, modern applications across mobile, web, and blockchain. Currently diving deep into decentralized technologies and exploring how Web3 can solve real-world problems. **Specialized in Progressive Web Apps (PWAs) development** for cross-platform experiences.
+I build scalable, modern applications across mobile, web, and blockchain. Currently diving deep into decentralized technologies and exploring how Web3 can solve real-world problems.
 
 ## Tech Stack
 
 ### Frontend & Mobile
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React (PWA)](https://img.shields.io/badge/React_(PWA)-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js (PWA)](https://img.shields.io/badge/Next.js_(PWA)-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -38,14 +37,13 @@ I build scalable, modern applications across mobile, web, and blockchain. Curren
 - Zero-knowledge proofs
 - DeFi protocols
 - Laravel and PostgreSQL
-- **PWA optimization** (offline-first, push notifications, app-like experiences)
 
 ---
 
-*Building the decentralized future through **Progressive Web Apps** and blockchain technology, one block at a time.*
+*Building the decentralized future, one block at a time.*
 
 <div align="center">
   
-  ![Visitor Count](https://komarev.com/ghpvc/?username=Nelson-Tommogo&color=blueviolet&style=flat-square)
+  ![Visitor Count](https://komarev.com/ghpvc/?username=Nelson-Tommogo&color=blueviver&style=flat-square)
   
 </div>

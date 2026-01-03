@@ -1,4 +1,4 @@
-# Nelson Tommogo  
+# Common Genius  
 **Full-Stack Developer | Web3 & Blockchain Enthusiast**
 
 I build scalable, modern applications across mobile, web, and blockchain. Currently diving deep into decentralized technologies and exploring how Web3 can solve real-world problems.

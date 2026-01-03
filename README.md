@@ -34,11 +34,12 @@ I build scalable, modern applications across mobile, web, and blockchain. Curren
   ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
   ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-## Currently Learning
+## Currently Advancing 
 - Advanced Web3 architectures
 - Smart contract security & auditing
 - Zero-knowledge proofs
 - DeFi protocols
+- Laravel and Postgress
 ---
 
 *Building the decentralized future, one block at a time.*

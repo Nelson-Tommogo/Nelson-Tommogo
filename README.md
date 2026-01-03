@@ -29,12 +29,10 @@ I build scalable, modern applications across mobile, web, and blockchain. Curren
 ![Motoko](https://img.shields.io/badge/Motoko-5C2D91?style=for-the-badge&logo=internet-computer&logoColor=white)
 
 
-## Current Focus
-<div>
+### Current Focus
   ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
   ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
   ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-</div>
 
 ## Currently Learning
 - Advanced Web3 architectures

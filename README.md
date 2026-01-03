@@ -42,8 +42,3 @@ I build scalable, modern applications across mobile, web, and blockchain. Curren
 
 *Building the decentralized future, one block at a time.*
 
-<div align="center">
-  
-  ![Visitor Count](https://komarev.com/ghpvc/?username=Nelson-Tommogo&color=blueviver&style=flat-square)
-  
-</div>

@@ -1,14 +1,10 @@
 # Common Genius  
-**Full-Stack Developer | Web3 Enthusiast**
+**Full-Stack | Web3 Dev**
 
-Building modern apps across mobile, web, and blockchain. Focused on decentralized tech solving real problems.
+Mobile • Web • Blockchain
 
-## Tech Stack
-**Frontend & Mobile:** React/Next.js (PWA) • Flutter • Kotlin Multiplatform  
-**Backend:** Node.js • Laravel  
-**Databases:** MongoDB • PostgreSQL • MySQL • Firebase  
-**Blockchain:** Solidity • Rust • Motoko  
+**Stack:** React/Next.js • Flutter • Laravel • Solidity
 
-## Current Focus
-Kotlin Multiplatform • Solidity • Laravel & PostgreSQL  
-*Building the decentralized future.*
+**Now:** Kotlin MP • Solidity • Laravel
+
+*Building decentralized futures.*

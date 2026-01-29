@@ -5,6 +5,6 @@ Mobile • Web • Blockchain
 
 **Stack:** React/Next.js • Flutter • Laravel • Solidity
 
-**Now:** Kotlin MP • Solidity • Laravel
+**Current Focus:** Kotlin MP • Solidity • Laravel
 
 *Building decentralized futures.*
